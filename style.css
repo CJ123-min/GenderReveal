@@ -158,7 +158,7 @@ h4{
   color: white;
 }
 .button1:hover{
-  border-radius: 3px;
+  border-radius: 15px;
   transform: scale(1.2);
   background-color: rgb(236, 44, 153);
 }
@@ -166,3 +166,4 @@ h4{
   transform: scale(1.1);
   background-color: rgb(176, 25, 110);
 }
+
